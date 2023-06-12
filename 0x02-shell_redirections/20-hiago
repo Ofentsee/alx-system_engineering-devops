@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Input string without 'c' and 'C'"
+echo "Input string without 'c' 'C':"
